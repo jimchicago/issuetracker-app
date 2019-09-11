@@ -1,0 +1,23 @@
+body {
+	font-family: 'Oxygen', sans-serif !important;
+}
+.container {
+	background-color:#5c4ef0;
+}
+.container small {
+	color:#adadad; font-size:52%;
+	font-style:italic;
+}
+.container h1 {
+	color:#fff;
+	padding-left:1%;
+}
+.container button {
+	background-color:#4ef05c;
+}
+.well {
+	padding-left:5%;
+}
+@media screen and (max-width:520px) {
+	.container small { font-size:44%; }
+}
